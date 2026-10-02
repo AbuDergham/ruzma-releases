@@ -4,7 +4,7 @@
 
 ## التنصيب لأول مرة
 
-1. افتح صفحة [الإصدارات](../../releases/latest) ونزّل الملف `rizma-setup-….exe`.
+1. افتح صفحة [الإصدارات](../../releases/latest) ونزّل الملف `ruzma-setup-….exe`.
 2. شغّل الملف. إذا ظهرت رسالة «Windows protected your PC»، اضغط «More info» ثم «Run anyway».
 3. بعد ذلك تصل التحديثات الجديدة تلقائياً من داخل البرنامج.
 
